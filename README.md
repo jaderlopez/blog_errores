@@ -18,4 +18,6 @@ master 3
 
 master 4 
 
+esto ah sido creado por mi solito me eh ayudado yo mismo por que soy genial 
+
 repositoros
